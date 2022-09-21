@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marquinhos11
+- 👋 Hi, I’m @marcossousa7
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning pensamento computacional
 - 💞️ I’m looking to collaborate on things about technology
