@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marquinhos11
-- 👀 I’m interested in football
+- 👀 I’m interested in technology
 - 🌱 I’m currently learning pensamento computacional
-- 💞️ I’m looking to collaborate on things about sports
+- 💞️ I’m looking to collaborate on things about technology
 - 📫 How to contact me call me by email marcos.sousa.silva@escola.pr.gov.br
 
 <!---
